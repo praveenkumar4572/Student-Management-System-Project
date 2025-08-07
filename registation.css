@@ -1,0 +1,200 @@
+
+.totaldiv{
+    display: flex;
+    justify-content: space-around;
+    display:flex;
+    column-gap: 50px;
+    row-gap: 80px;
+    border-style:solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 10px rgb(143, 142, 142);
+    width: 1000px;
+    padding: 50px;
+    position: relative;
+    margin-left:200px;
+}
+.innerdiv1{
+    display: grid;
+    width: 400px;
+    column-gap: 50px;
+    row-gap: 20px;
+    
+} 
+.name{
+    border-radius: 10px;
+    height: 30px;
+}
+b.name{
+    font-size: 30px;
+}
+.gender{
+    border-radius: 10px;
+    height: 30px;
+    font-size: 30px;
+}
+.gender:focus{
+    border-radius: 10px;
+    height: 30px;
+    font-size: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 32);
+}
+table.gender{
+    font-size: 30px;
+}
+.salutation{
+    font-size: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+.salutation:focus{
+    
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 80);
+}
+select.salutation{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+    
+}
+.dob{
+    border-radius: 10px;
+    height: 30px;
+    font-size: 20px;
+}
+.dob:focus{
+    border-radius: 10px;
+    height: 30px;
+    font-size: 20px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 104);
+}
+b.dob{
+    font-size: 30px;
+}
+.name:focus{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: blue;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 36);
+    height: 30px;
+}
+.community{
+    font-size: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+select.community{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+}
+.community:focus{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 52);
+}
+.subdiv{
+    display: grid;
+    width: 400px;
+    column-gap: 50px;
+    row-gap: 20px;
+    
+}
+.nationality{
+    font-size: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+select.nationality{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+.nationality:focus{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 84);
+}
+.bloodgroup{
+    font-size: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+select.bloodgroup{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+}
+.bloodgroup:focus{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 8);
+}
+.religion{
+    font-size: 30px;
+    border-radius: 10px;
+    height: 30px;
+}
+select.religion{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+}
+.religion:focus{
+    font-size: 13px;
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 8);
+}
+.caste{
+    border-radius: 10px;
+    height: 30px;
+}
+b.caste{
+    font-size: 30px;
+}
+.caste:focus{
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 8);
+}
+.img{
+    border-radius: 10px;
+    height: 30px;
+}
+b.img{
+    font-size: 30px;
+}
+.imgg{
+   font-style: italic;
+   font-size: 15px;
+}
+.imgg:focus{
+    border-radius: 10px;
+    height: 30px;
+    box-shadow: 0px 0px 5px 4px rgb(4, 245, 8);
+
+}
+
+.submit{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+.reset{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    height: 16px;
+}
+
